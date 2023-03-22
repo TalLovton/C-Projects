@@ -1,0 +1,15 @@
+﻿  Main.c
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(92,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(186,9): warning C4101: 'j': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(244,19): warning C4101: 'z': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(387,9): warning C4101: 'j': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(430,13): warning C4101: 'card': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(430,6): warning C4101: 'color': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(438,6): warning C4101: 'i': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(530,6): warning C4101: 'i': unreferenced local variable
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(597,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[6]'
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(597,12): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(601,49): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[6]'
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(601,38): warning C4024: 'strcpy': different types for formal and actual parameter 2
+C:\Users\lovto\source\repos\TakiProject1\TakiProject1\Main.c(589,12): warning C4101: 'k': unreferenced local variable
+  TakiProject1.vcxproj -> C:\Users\lovto\source\repos\TakiProject1\Debug\TakiProject1.exe
